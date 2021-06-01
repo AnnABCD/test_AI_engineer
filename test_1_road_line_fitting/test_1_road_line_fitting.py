@@ -87,6 +87,6 @@ cv2.imshow('Traffic lines', image0)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-cv2.imwrite('data\\ref_output\\ref_res.png', image0)
+cv2.imwrite('data\\output\\ref_res.png', image0)
 
 
